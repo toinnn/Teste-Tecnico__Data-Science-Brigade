@@ -9,3 +9,12 @@ Teste Técnico - Data Scientist\[1799\].pdf
 2019.csv.zip
 
 Word_Embedding_wiki-news-300d-1M-subword.vec/
+
+EmbeddingBaixados
+EmbeddingBaixados/skip_s100.zip
+EmbeddingBaixados/Wang2Vec_skip_s100 (1).zip
+EmbeddingBaixados/Word2Vec_skip_s50.zip
+
+.vector_cache/glove_s100.txt.pt
+.vector_cache/skip_s100.txt.pt
+.vector_cache/Word_Embedding_wiki-news-300d-1M-subword.vec.pt
